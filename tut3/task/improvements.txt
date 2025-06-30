@@ -1,0 +1,3 @@
+1. Output now goes into Tutorial3.out using stdout redirection (./xhpl > Tutorial3.out).
+2. HPL.dat is configured to run only one benchmark test.
+3. Recompiled HPL using OpenBLAS instead of ATLAS for improved performance.
